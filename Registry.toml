@@ -3,4 +3,5 @@ uuid = "7b72b01d-f38d-499e-a380-e4075523b21d"
 repo = "https://github.com/0h7z/0hjl.git"
 
 [packages]
+024dbb13-cbdc-4f8e-9218-0cc7169443be = { name = "SHA3", path = "S/SHA3" }
 379725f3-1ad5-416d-b88a-50ced391fe04 = { name = "UUID4", path = "U/UUID4" }

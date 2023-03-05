@@ -1,0 +1,3 @@
+name = "SHA3"
+uuid = "024dbb13-cbdc-4f8e-9218-0cc7169443be"
+repo = "https://github.com/0h7z/SHA3.jl.git"
