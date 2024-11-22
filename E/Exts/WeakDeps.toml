@@ -6,3 +6,6 @@ StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 ["0.1.5 - 0"]
 CFITSIO = "3b1b4be9-1499-4b22-8d78-7db3344d1961"
 FITSIO = "525bcba6-941b-5504-bd06-fd0dc1a4d2eb"
+
+["0.2.5 - 0"]
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
